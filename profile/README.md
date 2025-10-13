@@ -45,6 +45,6 @@ If you appreciate our work and would like to donate to us, please so do with the
 
 [![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)](https://localmonero.co/blocks/search/4863KYSB1sbXEFAFY7CujbH6i2eC1X7EtHtemrU5NB459s2QSCQacz2DtQhZCzKuDAA2HNdqruMCUfV2oUSrCvjR92otNTN)
 
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/explorer/addresses/btc/bc1qywu0t00jymt3ujrf4a6x6n9gz5v8tcugkv5vsj)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/explorer/addresses/btc/bc1q20ghe4xr302jgmst8u2xdnvx57c69afk9knfrp)
 
-[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://www.blockchain.com/explorer/addresses/eth/0xfF0a9Aa73c4E3A1b0d2A3fE8d78fC5d934c2A46B)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://www.blockchain.com/explorer/addresses/eth/0x4A6b47269d3b114B82bb382f37f921BE8D169931)
